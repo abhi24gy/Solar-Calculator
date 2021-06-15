@@ -8,7 +8,7 @@ Front-end consists of index page, project page, and Components page
   Home page. General information about the project
 
   #### 2. project page
-  Calculator page. Not fully developed. Python 
+  Calculator page. Not fully developed. 
 
   #### 3. Components page
   Information page. Information about On-grid and Off-grid Solar system
